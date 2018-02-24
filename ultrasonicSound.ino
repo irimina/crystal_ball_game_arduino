@@ -12,7 +12,7 @@ int ledRed=4;
 int ledBlue=5;
 
 //buzzer 
-int buzzer= 11;
+int buzzer= 8;
 int sound = 250;
 
 
