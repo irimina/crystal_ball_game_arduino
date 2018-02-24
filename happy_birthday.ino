@@ -3,10 +3,9 @@
 // first line of the happy birthday song
 
 /*
- * 
 Sample notes
  
-NOTE_C4 262
+NOTE_C4 is represented by 262
 NOTE_D4 294
 NOTE_E4 330
 NOTE_F4 349
