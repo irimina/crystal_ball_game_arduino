@@ -83,3 +83,7 @@ else{
   }
   delay(300);
 }
+/*
+initially from 
+http://www.instructables.com/id/Arduino-Distance-Detector-with-a-Buzzer-and-LEDs/
+*/
